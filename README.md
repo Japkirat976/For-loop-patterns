@@ -1,5 +1,5 @@
 # ForLoopPatterns
-### This file contains basic for loop patterns includeing - 
+### This file contains basic for loop patterns including - 
 ### 1. Right half pyramid
 ### 2. Left half pyramid
 ### 3. Full pyramid
